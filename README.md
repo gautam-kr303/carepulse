@@ -5,6 +5,8 @@ A modern, full-stack healthcare appointment platform built with **Next.js** 14, 
 
 Easily manage patient registrations, schedule doctor appointments, and handle everything from one clean dashboard.
 
+🔗 **Live Site**: [https://carepulse-vert-phi.vercel.app](https://carepulse-vert-phi.vercel.app)
+
 ---
 
 ## 🚀 Features
